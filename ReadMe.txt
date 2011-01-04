@@ -1,0 +1,1 @@
+Hi there! This repository does some preliminary testing on GIT to understand its working.
