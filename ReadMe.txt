@@ -13,3 +13,5 @@ Again by 'sanjanatest' in the 'dev'. 2
 Simultaneous update test: 'jafferjshah' 'master'
 Simultaneous update: 'sanajanatest' 'dev' 1
 Simultaneous update: 'sanajanatest' 'dev' 2
+
+Simulataneous test 2: 'jafferjshah' 'master'
